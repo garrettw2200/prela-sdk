@@ -11,13 +11,13 @@ Prela provides comprehensive instrumentation, evaluation frameworks, and replay 
 
 ## Features
 
-- 🔍 **Auto-instrumentation** - Zero-code observability for 10+ AI frameworks
-- 📊 **Evaluation Framework** - 17+ assertion types for testing agent behavior
-- 🔄 **Replay Engine** - Deterministic replay for debugging and testing
-- 📤 **Multiple Exporters** - Console, file, HTTP, and ClickHouse outputs
-- 🎯 **Multi-Agent Support** - Track complex agent interactions and delegations
-- 🛠️ **CLI Tools** - Command-line interface for trace management
-- 🧪 **Production Ready** - 836+ tests with comprehensive coverage
+- **Auto-instrumentation** - Zero-code observability for 10+ AI frameworks
+- **Evaluation Framework** - 17+ assertion types for testing agent behavior
+- **Replay Engine** - Deterministic replay for debugging and testing
+- **Multiple Exporters** - Console, file, HTTP, and ClickHouse outputs
+- **Multi-Agent Support** - Track complex agent interactions and delegations
+- **CLI Tools** - Command-line interface for trace management
+- **Production Ready** - 836+ tests with comprehensive coverage
 
 ## Installation
 
@@ -340,8 +340,8 @@ Apache License 2.0 - see [LICENSE](LICENSE) for details.
 
 ## Acknowledgments
 
-Built with ❤️ by the Prela team and contributors.
+Built with love by the Prela team and contributors.
 
 ---
 
-**Star this repo** if you find it useful! ⭐
+**Star this repo** if you find it useful!
