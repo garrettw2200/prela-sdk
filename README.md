@@ -332,7 +332,7 @@ mypy prela
 
 - [GitHub Discussions](https://github.com/garrettw2200/prela-sdk/discussions)
 - [Issue Tracker](https://github.com/garrettw2200/prela-sdk/issues)
-- [Discord Community](https://prela.dev)
+- [Discord Community](https://discord.gg/bCMfHnZD)
 
 ## License
 
